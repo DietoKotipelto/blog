@@ -1,4 +1,4 @@
 este es el primer archivo. Estoy tomando el curso de git.
 
 Mi nombre es Israel Torres, mi edad es 37
-Soy de Santiago
+Soy de Santiago y estudie en fime
